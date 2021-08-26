@@ -1,0 +1,8 @@
+streamlit==0.87.0
+mlflow ==  1.17.0
+pandas == 1.2.4
+pillow == 8.0.1
+flask == 1.1.2
+sqlalchemy == 1.4.7
+
+
